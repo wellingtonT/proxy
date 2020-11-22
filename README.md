@@ -12,5 +12,4 @@
 </ul>
 
 <h3>Como implementar o proxy?</h3>
-Format: ![Alt Text](https://upload.wikimedia.org/wikipedia/commons/b/bc/Proxy.png)
-    
+<img src=“https://upload.wikimedia.org/wikipedia/commons/b/bc/Proxy.png”>
