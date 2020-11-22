@@ -12,4 +12,9 @@
 </ul>
 
 <h3>Como implementar o proxy?</h3>
-<img src=“https://upload.wikimedia.org/wikipedia/commons/b/bc/Proxy.png”>
+<img
+  src=“https://upload.wikimedia.org/wikipedia/commons/b/bc/Proxy.png”
+  raw=true
+  alt=“Proxy”
+  style=“margin-right: 10px;”
+/>
